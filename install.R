@@ -1,3 +1,2 @@
-install.package("tidyverse")
-install.packages("ggtext")
-install.pacages("patchwork")
+install.packages("tidyverse")
+
